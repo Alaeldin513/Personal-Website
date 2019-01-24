@@ -1,0 +1,12 @@
+.footerContainer {
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height: 50px;
+    direction: ltr;
+    display: block;
+    position: fixed;
+    margin-top: 0px;
+    bottom: 20px;
+    background-color: gold; 
+}

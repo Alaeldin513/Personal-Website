@@ -1,0 +1,37 @@
+.navBarContainer {
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    display: block;
+    margin-top: 0px;
+    position: fixed;
+    background-color: gold; 
+}
+
+.NavBarTitle {
+    color: white;
+    font-size: 40px;
+    margin-left: 25px;
+}
+.NavBarButton {
+    border: none;
+    background: none;
+    letter-spacing: 6px;
+    margin-left: 25px;
+    padding: 0px;
+}
+.NavBarButton:focus {
+    outline:0;
+}
+.NavBarButton div {
+    display: inline;
+    color: black;
+    font-size: 15px;
+}
+
+
+.NavBarButton div:hover {
+    display: inline;
+    color: white;
+    font-size: 31px;
+}
