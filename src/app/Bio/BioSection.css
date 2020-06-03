@@ -1,0 +1,43 @@
+
+.bioSectionContainer {
+    margin-top: 0;
+    margin-bottom: 100px;
+    display: inline-block;
+    color: black;
+    background-color: white;
+    /* box-shadow: -5px -5px 5px #888888; */
+}
+
+
+.bioSectionContainer img {
+    max-width: 980px;
+    width: 100%;
+    margin: 0 auto;
+}
+.bioSectionContainer h3 {
+    color: rgb(79, 45, 201);
+    text-align: left;
+    text-shadow: -2px -2px lightgray;
+}
+
+
+.bioSectionContainer p {
+    width: 95%;
+    margin: 50px 0px;
+    padding: 10px;
+    font-family: Georgia;
+    text-align: left;
+    margin: auto;
+}
+.bioSectionContainer div {
+    margin-top: 100px auto 0px auto;
+}
+
+.skillsLogos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ .skillsLogos img {
+     width: 30%;
+}
